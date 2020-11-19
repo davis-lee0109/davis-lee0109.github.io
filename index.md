@@ -1,3 +1,9 @@
+---
+layout: default
+title: 首页
+permalink: index.html
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/davis-lee0109/davis-lee0109.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
