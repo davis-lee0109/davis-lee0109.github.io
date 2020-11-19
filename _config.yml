@@ -1,3 +1,9 @@
+title: Davis' Blog
+name: Daivs Li
+
+baseurl: ""
+
+
 sass:
   sass_dir: theme/_sass
   style: compressed
