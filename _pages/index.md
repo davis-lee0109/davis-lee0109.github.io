@@ -2,12 +2,13 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome!
+title: “无用之用，方为大用”
 ---
 
-Welcome to Davis' Blog!
+“无用之用，方为大用”
 
-### Recent Posts
+
+Recent Posts
 
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
