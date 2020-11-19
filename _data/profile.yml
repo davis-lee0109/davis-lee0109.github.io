@@ -1,20 +1,12 @@
-- caption: Friday Theme on GitHub
-  href: https://github.com/sfreytag/friday-theme
+- caption: GitHub
+  href: https://github.com/davis-lee0109
   icon: entypo/github.svg
 
-- caption: Stack Overflow
-  href: https://stackoverflow.com
-  icon: icons/stackoverflow.svg
+- caption: Hotmail
+  href: mailto:lishaohua123@hotmail.com
+  icon: entypo/email.svg
 
-- caption: Facebook
-  href: https://www.facebook.com
-  icon: entypo/facebook.svg
-
-- caption: Twitter
-  href: https://www.twitter.com
-  icon: entypo/twitter.svg
-
-- caption: London
-  href: https://www.google.co.uk/maps/place/London/@51.528308,-0.3817765,10z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5073509!4d-0.1277583
+- caption: Shanghai, China
+  href: https://map.baidu.com/poi/%E4%B8%8A%E6%B5%B7%E4%BA%BA%E6%B0%91%E5%B9%BF%E5%9C%BA/@13523403.10659091,3640995.3738636365,17.87z?uid=b388f9fd445b8b40b25c6aab&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&querytype=detailConInfo&da_src=shareurl
   icon: entypo/location-pin.svg
 
