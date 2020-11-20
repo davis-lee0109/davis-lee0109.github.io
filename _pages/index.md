@@ -8,7 +8,7 @@ title: Welcome to Davis' Blog
     <img class="card-img-top" src="/asset/index/waitan.jpg"/>
     <div class="card-body bg-light">
         <div class="card-text">
-            梦从这里启航，在这里结束。
+            梦从这里启航……
         </div>
     </div>
 </div>
