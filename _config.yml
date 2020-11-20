@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 # Config for your profile.
 title:            Davis' Blog           # Site title
-name:             Davis Li            # Your name
+name:             Davis Li 少华            # Your name
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire

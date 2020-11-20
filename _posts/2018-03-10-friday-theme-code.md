@@ -1,5 +1,6 @@
 ---
 title: How to write code, with syntax highlighting
+comments: true
 tags:
   - syntax highlighting
   - code
