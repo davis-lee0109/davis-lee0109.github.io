@@ -1,5 +1,6 @@
 ---
 title: Change the Appearance of Friday Theme
+published: false
 ---
 
 ## Changing the Style

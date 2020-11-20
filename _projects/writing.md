@@ -1,5 +1,6 @@
 ---
 title: Writing Content for Friday Theme
+published: false
 ---
 
 ## Writing Content

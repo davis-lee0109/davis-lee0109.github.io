@@ -1,5 +1,6 @@
 ---
 title: Install and Use Friday Theme
+published: false
 ---
 
 ## About
