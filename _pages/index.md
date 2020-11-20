@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-show_tags: false
+show_tags: true
 title: Welcome to Davis' Blog
 ---
 
