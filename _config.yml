@@ -70,3 +70,5 @@ defaults:
       show_profile: false
       layout: defaults/list
 
+#整个站点评论打开/关闭
+intensedebate_comments: true
