@@ -4,6 +4,14 @@ permalink: index.html
 narrow: true
 title: Welcome to Davis' Blog
 ---
+<div class="card mb-3">
+    <img class="card-img-top" src="/asset/index/waitan.jpg"/>
+    <div class="card-body bg-light">
+        <div class="card-text">
+            梦从这里启航，在这里结束。
+        </div>
+    </div>
+</div>
 
 [**文章**]({{site.utl}}list/posts.html) 栏目中记载一些平时工作生活中的所思所想。
 
