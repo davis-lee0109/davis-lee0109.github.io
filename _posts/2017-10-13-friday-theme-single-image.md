@@ -1,6 +1,6 @@
 ---
 title:  文章编辑技巧
-published: false
+published: true
 tags:
   - other
 comments: true
