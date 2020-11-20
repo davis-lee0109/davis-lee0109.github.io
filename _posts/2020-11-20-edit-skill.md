@@ -232,7 +232,10 @@ images:
 
 ---
 **插入视频**
-<iframe src="//player.bilibili.com/player.html?aid=541874959&bvid=BV15i4y1M7uw&cid=228407275&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[华鑫金融科技](https://www.zhihu.com/video/1245770807189307392)
+
+<iframe src="//player.bilibili.com/player.html?aid=541874959&bvid=BV15i4y1M7uw&cid=228407275&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="600"> </iframe>
 
 ---
 **代码编辑**
