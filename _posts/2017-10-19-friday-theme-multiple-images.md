@@ -1,6 +1,7 @@
 ---
 title:  How to use Multiple Images in a Masonry-style layout
 comments: true
+published: false
 tags:
   - Friday Theme
   - HTML

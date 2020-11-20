@@ -1,6 +1,7 @@
 ---
 title: How to write code, with syntax highlighting
 comments: true
+published: false
 tags:
   - syntax highlighting
   - code

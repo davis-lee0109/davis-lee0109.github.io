@@ -72,3 +72,6 @@ defaults:
 
 #整个站点评论打开/关闭
 intensedebate_comments: true
+
+# 中文编码
+encoding: utf-8

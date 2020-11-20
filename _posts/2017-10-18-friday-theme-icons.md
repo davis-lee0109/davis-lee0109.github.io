@@ -5,6 +5,7 @@ tags:
   - Friday Theme
   - CSS
 comments: true
+published: false
 ---
 
 Here's how to use the Entypo icons in the Friday Theme as SVGs It's easy with Jekyll's include tag and Bootstrap 4 classes.
