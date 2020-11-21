@@ -3,12 +3,18 @@ title:  文章编辑技巧
 tags:
   - other
 comments: true
-asset_url: /asset/20201120/
+asset_url: /asset/2020-11-20/
 images:
-  - /asset/20201120/wow-map.jpg
-  - /asset/20201120/wow-map.jpg
-  - /asset/20201120/wow-map.jpg
-  - /asset/20201120/wow-map.jpg
+  - /asset/2020-11-20/wow-map.jpg
+  - /asset/2020-11-20/001.jpg
+  - /asset/2020-11-20/002.jpg
+  - /asset/2020-11-20/003.jpg
+  - /asset/2020-11-20/004.jpg
+---
+
+
+
+
 ---
 
 本文主要是说明不同内容的编辑方式，以及不同方式的优缺点，为以后的文章的编辑作参考用。<br>
@@ -193,7 +199,7 @@ images:
     <div class="carousel-inner">
         {% for img in page.images %}
             <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                <img src="{{ img }}" class="d-block w-100" alt="">
+                <img src="{{ img }}" class="d-block w-100" alt="" height="400">
             </div>
         {% endfor %}
     </div>
