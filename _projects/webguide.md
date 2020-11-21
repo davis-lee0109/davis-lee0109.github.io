@@ -24,3 +24,4 @@ title: 精华网站
 ---
 ## 其他
 [intensedebate](https://www.intensedebate.com): 网站评论。<br>
+[百度统计](https://tongji.baidu.com): 查阅网站访问量。<br>
