@@ -6,14 +6,8 @@ title: 博客开发进度
 
 ## 2020-11-23
 1. 谷歌分析代码添加完毕。
-2. 添加访问统计代码。[Hit Kounter v0.3](https://jerryzou.com/posts/introduction-to-hit-kounter-lc/)
 
 ## 2020-11-22
 1. 博客完成基本搭建。
 2. 增加了评论功能。目前的问题是 intensedebate 网络访问有些不稳定。
 3. 增加了百度统计功能。
-
-
----
-
-<span data-hk-page="current"> - </span>
