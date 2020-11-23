@@ -6,7 +6,7 @@ title: 博客开发进度
 
 ## 2020-11-23
 1. 谷歌分析代码添加完毕。
-2. 添加访问统计代码。[参考链接](https://www.dazhuanlan.com/2019/12/25/5e0277cdb7d0d/)
+2. 添加访问统计代码。[Hit Kounter v0.3](https://jerryzou.com/posts/introduction-to-hit-kounter-lc/)
 
 ## 2020-11-22
 1. 博客完成基本搭建。
@@ -16,6 +16,4 @@ title: 博客开发进度
 
 ---
 
-<span id="busuanzi_container_site_pv">
-    本站总访问量<span id="busuanzi_value_site_pv"></span>次
-</span>
+<span data-hk-page="current"> - </span>
