@@ -5,7 +5,24 @@ narrow: true
 title: 关于
 ---
 
+每每提笔写一些关于自己的内容，往往会感觉非常矛盾，一方面感觉有太多的内容要写，一方面又感觉没什么可以写。
+太多内容可写是因为从小到大怎么着都有太多的事情发生过，都可以来作为自己的注脚；
+没有内容可写是因为感觉自己的那些事情就是一地鸡毛，恐怕浪费读者宝贵的时间。
 
+思来想去，还是写写建这个博客的一些**初衷**。
+无论未来这个博客是否能坚持下去，都是当下一份思考。
 
-#### 我正在干什么？
-<iframe src="//player.bilibili.com/player.html?aid=457961568&bvid=BV18541157Tc&cid=258821182&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="600" height="100%"> </iframe>
+**首先是好玩**<br>
+Github上这个搭建也简单，所以就想着在这里试试看。在搭建的过程中，充分体现了“难者不会，会者不难”的情况。
+
+**其次是沉淀**<br>
+2005年毕业进入互联网公司工作后，一直想着有一个固定的地方记录一些有用的事情。
+曾经把在北京的几次生活囧事完完全全记录在msn的space上面。没几年msn退出中国了，QQ空间太花哨已经玩不动了。
+后来尝试过百度空间，现在合并到百度网盘了。
+又工作了这么多年，也想整理整理自己的一些心得体会，把自己的所见所思沉淀下来也是极好的。
+
+**再次是挑战**<br>
+做事情往往都是三分钟热情，看看这次能有几个三分钟，也算是对自己的一种挑战。
+
+最后这段视频就来介绍一下我正在干什么。
+<iframe src="//player.bilibili.com/player.html?aid=457961568&bvid=BV18541157Tc&cid=258821182&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="600" height="400"> </iframe>
