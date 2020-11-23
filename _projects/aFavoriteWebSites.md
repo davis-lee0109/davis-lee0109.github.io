@@ -1,5 +1,5 @@
 ---
-title: Favorite Web Sites
+title: 精选网站导航
 ---
 
 ## 搜索引擎
