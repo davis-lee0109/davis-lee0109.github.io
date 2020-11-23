@@ -24,5 +24,5 @@ Github上这个搭建也简单，所以就想着在这里试试看。在搭建�
 **再次是挑战**<br>
 做事情往往都是三分钟热情，看看这次能有几个三分钟，也算是对自己的一种挑战。
 
-最后这段视频就来介绍一下我正在干什么。
+最后想借助一段视频来介绍一下我目前在哪里在干什么，有兴趣的朋友可以一起来交流讨论。
 <iframe src="//player.bilibili.com/player.html?aid=457961568&bvid=BV18541157Tc&cid=258821182&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="600" height="400"> </iframe>
