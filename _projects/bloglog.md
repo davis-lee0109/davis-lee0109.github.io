@@ -5,19 +5,20 @@ title: 博客开发进度 - 2020/11
 正常撰写博客
 
 ## 2020-11-24
-今天完成两项内容：
+今天完成三项内容：
 1. 添加不蒜子页面统计代码。
-2. 新增栏目。
+2. 新增导航栏目。
+3. 添加百度站内搜索功能。
 
 **添加[不蒜子](http://ibruce.info/2015/04/04/busuanzi/)访问统计代码。**
 
-* js 代码 - "_includes/structure/head.html"
+* `_includes/structure/head.html` 添加不蒜子js代码
 
 ```html
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 ```
 
-* 总访问量和总uv量 - "_includes/bars/side.html"
+* `_includes/bars/side.html` 添加总访问量和总uv量显示代码
 
 ```html
 <br>
@@ -34,7 +35,7 @@ title: 博客开发进度 - 2020/11
 </div>
 ```
 
-* 文章阅读量 - "_includes/components/post-meta.html"
+* `_includes/components/post-meta.html` 添加文章阅读量显示代码
 
 ```html
 <div class="card bg-light">
@@ -49,7 +50,7 @@ title: 博客开发进度 - 2020/11
 **添加新导航栏** 
 * `_config.yml` 添加 `collection` 和 `default.setting`
 
-```markdown
+```yml
 collections:
   books:
     output: true
@@ -66,9 +67,9 @@ default
 # 此处直接借用 project 的 laylout，以后可以针对需求再调整
 ```
 
-* `-data/nav.yml` 添加 导航名称 和 连接
+* `_data/nav.yml` 添加 导航名称 和 连接
 
-```markdown
+```yml
 - title: 阅读
   href: list/books.html
 ```
@@ -77,14 +78,51 @@ default
 
 * `list`目录下新建`books.md`，用来展示栏目首页。
 
+**添加百度站内搜索功能** 
+
+* `_includes/structure/head.html` 添加 百度搜索js代码。
+
+```javascript
+<SCRIPT language=javascript>
+    <!--
+    function go(formname)
+    {
+     var url = "http://www.baidu.com/baidu";
+     formname.method = "get";
+    if (formname.myselectvalue.value == "1") {
+      document.search_form1.word.value = document.search_form1.word.value+" site:davis-lee0109.github.io";
+    }
+    formname.action = url;
+    return true;
+    }
+    //-->
+</SCRIPT>
+```
+
+* `_includes/bars/side.html` 添加 百度搜索框代码。
+
+```html
+<br>
+<div class="card bg-light">
+    <div class="card-body text-center">
+        <form name="search_form1" target="_blank" onsubmit="return go(this)">
+            <input name=word size="20" value="请输入关键字" onMouseOver="this.focus()"
+                   onBlur="if (value ==''){value='请输入关键字'}" onFocus="this.select()"
+                   onClick="if(this.value=='请输入关键字')this.value=''">
+            <input type="submit" value="百度站内搜索"><br>
+            <INPUT name=myselectvalue type=hidden value=1>
+        </form>
+    </div>
+</div>
+```
 
 ## 2020-11-23
 今天完成一项内容：
-1. 添加谷歌分析统计代码。
-* [谷歌分析](https://analytics.google.com/analytics/web/)代码添加完毕。
-"_includes/structure/head.html"
+1. 添加[谷歌分析](https://analytics.google.com/analytics/web/)统计代码。
 
-```html
+* `_includes/structure/head.html` 添加谷歌分析代码
+
+```javascript
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1LC3HC05B8"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -96,12 +134,12 @@ default
 ```
 
 ## 2020-11-22
-今天完成两项内容：
+今天完成三项内容：
 1. 博客完成基本搭建。
-2. 增加了评论功能。
-* 博客完成基本搭建。
-* 增加了评论功能。目前的问题是 [intensedebate](https://www.intensedebate.com) 网络访问有些不稳定。
-"_layouts/defaults/post.html"
+2. 增加 [intensedebate](https://www.intensedebate.com) 评论功能。
+3. 增加了[百度统计](https://tongji.baidu.com)功能。
+
+* `_layouts/defaults/post.html`  增加了评论功能。
 
 ```html
 <hr>
@@ -111,10 +149,9 @@ default
 {% endif %}
 ```
 
-* 增加了[百度统计](https://tongji.baidu.com)功能。
-"_includes/structure/head.html"
+* `_includes/structure/head.html` 添加百度统计js代码。
 
-```html
+```javascript
 <script>
     var _hmt = _hmt || [];
     (function() {

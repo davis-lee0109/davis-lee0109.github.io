@@ -1,0 +1,14 @@
+<!--百度站内搜索框 开始-->
+<br>
+<div class="card bg-light">
+    <div class="card-body text-center">
+        <form name="search_form1" target="_blank" onsubmit="return go(this)">
+            <input name=word size="20" value="请输入关键字" onMouseOver="this.focus()"
+                   onBlur="if (value ==''){value='请输入关键字'}" onFocus="this.select()"
+                   onClick="if(this.value=='请输入关键字')this.value=''">
+            <input type="submit" value="百度站内搜索"><br>
+            <INPUT name=myselectvalue type=hidden value=1>
+        </form>
+    </div>
+</div>
+<!--百度站内搜索框 结束-->
