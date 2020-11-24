@@ -25,6 +25,9 @@ title: Welcome to Davis' Blog
 
 <br>
 
+[**阅读**]({{site.utl}}list/books.html) 栏目中主要是比较经典的书籍汇总，每本书下方会列出读书笔记连接。
+<br>
+
 [**资料**]({{site.utl}}list/projects.html) 栏目中主要是一些平时经常使用的资料和来源等。
 
 ***
