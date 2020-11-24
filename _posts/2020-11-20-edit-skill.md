@@ -61,6 +61,12 @@ images:
 {% endraw %}
 {% endhighlight %}
 
+- Markdown 添加注释
+
+```markdown
+[//]: <> (This is also a comment.)
+```
+
 ---
 **图片编辑**
 
