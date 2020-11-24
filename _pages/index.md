@@ -4,6 +4,7 @@ permalink: index.html
 narrow: true
 title: Welcome to Davis' Blog
 ---
+
 <div class="card mb-3">
     <img class="card-img-top" src="/asset/index/waitan.jpg"/>
     <div class="card-body bg-light">
