@@ -1,7 +1,7 @@
 ---
 title:  文章编辑技巧
 tags:
-  - other
+  - Other
 comments: true
 asset_url: /asset/2020-11-20/
 images:
