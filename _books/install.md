@@ -1,7 +1,7 @@
 ---
 title: 经营战略全史
 published: true
-show_profile: ture
+show_profile: true
 images:
   - /asset/books/jyzlqs_cover.jpg
 ---

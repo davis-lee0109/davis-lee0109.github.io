@@ -15,8 +15,6 @@
     <div class="row">
         <div class="d-none d-lg-block col-lg-4 col-xl-{{ col1 }} side">
             {% include bars/side.html %}
-            {% if page.permalink!="posts.html" %} {% include bars/baiduSearch.html %} {% endif%}
-            {% if page.permalink!="posts.html" %} {% include bars/busuanziTotal.html %} {% endif%}
         </div>
         <div class="col-md-12 col-lg-8 col-xl-{{ col2 }} pb-4 content">
             {{ content }}

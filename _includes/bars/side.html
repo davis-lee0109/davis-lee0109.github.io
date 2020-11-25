@@ -5,10 +5,13 @@
             {% include components/profile-avatar.html %}
             {% include components/profile-body.html %}
         </div>
+        {% include bars/baiduSearch.html %}
+        {% include bars/busuanziTotal.html %}
     </div>
 {% endif %}
 
 {% if page.show_tags %}
+    tag
     {% include components/all-tags.html %}
 {% endif %}
 
