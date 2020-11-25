@@ -1,5 +1,5 @@
 ---
-title: 经营战略全史
+title: 商业模式全史
 published: true
 show_profile: true
 ---
