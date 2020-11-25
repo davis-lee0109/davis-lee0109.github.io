@@ -2,8 +2,6 @@
 title: 经营战略全史
 published: true
 show_profile: true
-images:
-  - /asset/books/jyzlqs_cover.jpg
 ---
 
 ![经营战略全史]({{site.url}}/asset/books/jyzlqs_cover.jpg)
