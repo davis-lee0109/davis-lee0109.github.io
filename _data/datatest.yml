@@ -1,0 +1,14 @@
+- title: 首页
+  href: index.html
+
+- title: 文章
+  href: list/posts.html
+
+- title: 阅读
+  href: list/books.html
+
+- title: 资料
+  href: list/projects.html
+
+- title: 关于
+  href: about.html
