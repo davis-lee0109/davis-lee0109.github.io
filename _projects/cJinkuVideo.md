@@ -7,13 +7,15 @@ title: 金库网视频汇总
 
 <table border="1">
   <tr>
+    <th>编号</th>
     <th>一级分类</th>
     <th>二级分类</th>
     <th>讲师</th>
-    <th>主题</th>
+    <th>主题</th>  
   </tr>
   {% for item_i in site.data.jinku_goods_info %}
   <tr>
+    <td>{{ item_i.goods_id }}</td>
     <td>{{ item_i.class1 }}</td>
     <td>{{ item_i.class2 }}</td>
     <td>{{ item_i.teacher }}</td>
