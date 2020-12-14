@@ -15,14 +15,6 @@ title: Welcome to Davis' Blog
 </div>
 
 [**文章**]({{site.utl}}list/posts.html) 栏目中记载一些平时工作生活中的所思所想。
-
-|Tag|说明|
-|:----:|:----|
-|math|数学在工作生活中的应用。|
-|finance|理财中遇到的误区及解决方法。|
-|IT|一些程序方面的问题。|
-|others|就是其他|
-
 <br>
 
 [**阅读**]({{site.utl}}list/books.html) 栏目中主要是比较经典的书籍汇总，每本书下方会列出读书笔记连接。
