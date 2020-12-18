@@ -4,7 +4,7 @@ published: true
 show_profile: true
 ---
 
-![战略历程]({{site.url}}/asset/books/xgglzdsqgs_cover.jpg)
+![写给管理者的睡前故事]({{site.url}}/asset/books/xgglzdsqgs_cover.jpg)
 
 **内容简介**
 
@@ -26,4 +26,4 @@ show_profile: true
 
 **推荐人**
 
-cc
+陈晨@微店
