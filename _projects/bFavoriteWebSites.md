@@ -6,6 +6,7 @@ title: 精选网站导航
 [虫部落](https://search.chongbuluo.com/): 让人欲罢不能的搜索综合体。<br>
 [ZLibrary](https://z-lib.org/): 不仅仅是英文电子书。<br>
 [鸠摩搜索](https://www.jiumodiary.com/): 中文电子书。<br>
+[RapidAPI](https://rapidapi.com/): 各类API集中地。<br>
 
 ---
 ## 数学
