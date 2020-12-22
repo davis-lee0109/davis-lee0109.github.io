@@ -10,8 +10,9 @@ title: 精选网站导航
 [RapidAPI](https://rapidapi.com/): 各类API集中地。<br>
 
 ---
-## 数学
+## 数学及相关
 [WolframAlpha](https://www.wolframalpha.com/): 没有解不了的数学题。<br>
+[微软 AI-EDU](https://github.com/microsoft/ai-edu/)：AI教程，微软出品必是精品。
 
 ---
 ## 投资理财
