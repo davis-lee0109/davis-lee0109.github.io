@@ -23,6 +23,10 @@ title: 精选网站导航
 [前沿报告库](https://wk.askci.com/): 免费研报库。<br>
 
 ---
+## 视频站点
+[B站](https://www.bilibili.com): 一个学习的视频网站。<br>
+
+---
 ## 其他
 [intensedebate](https://www.intensedebate.com): 网站评论。<br>
 [百度统计](https://tongji.baidu.com): 查阅网站访问量。<br>
