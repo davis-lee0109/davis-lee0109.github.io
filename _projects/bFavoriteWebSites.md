@@ -13,6 +13,7 @@ title: 精选网站导航
 ## 数学及相关
 [WolframAlpha](https://www.wolframalpha.com/): 没有解不了的数学题。<br>
 [微软AI-EDU](https://github.com/microsoft/ai-edu/): AI教程，微软出品必是精品。<br>
+[Scikit-Learn](http://www.scikitlearn.com.cn/): Scikit-Learn.<br>
 
 ---
 ## 投资理财
