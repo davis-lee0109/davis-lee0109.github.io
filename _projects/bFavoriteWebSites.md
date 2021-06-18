@@ -18,6 +18,7 @@ title: 精选网站导航
 ## Python
 [Scikit-Learn](http://www.scikitlearn.com.cn/): Scikit-Learn中文。<br>
 [Pandas](https://pandas.pydata.org/): Pandas Official Website.<br>
+[Numpy](https://numpy.org/doc/): Numpy Official Website.<br>
 [SciPy](https://docs.scipy.org/): SciPy Official Website.<br>
 [SymPy](https://docs.sympy.org/latest/index.html): SymPy Official Website.<br>
 [Matplotlib](https://matplotlib.org/): Matplotlib Official Website.<br>
