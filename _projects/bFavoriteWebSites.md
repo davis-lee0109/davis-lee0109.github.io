@@ -19,8 +19,10 @@ title: 精选网站导航
 [Scikit-Learn](http://www.scikitlearn.com.cn/): Scikit-Learn中文。<br>
 [Pandas](https://pandas.pydata.org/): Pandas Official Website.<br>
 [SciPy](https://docs.scipy.org/): SciPy Official Website.<br>
+[SymPy](https://docs.sympy.org/latest/index.html): SymPy Official Website.<br>
 [Matplotlib](https://matplotlib.org/): Matplotlib Official Website.<br>
 [Seaborn](http://seaborn.pydata.org/): Seaborn Official Website.<br>
+
 
 ---
 ## 投资理财
