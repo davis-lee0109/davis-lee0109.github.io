@@ -1,5 +1,5 @@
 ---
-title: 陈志武金融投资客
+title: 陈志武金融投资课
 published: true
 show_profile: true
 ---
