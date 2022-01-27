@@ -23,6 +23,7 @@ title: 精选网站导航
 [SymPy](https://docs.sympy.org/latest/index.html): SymPy Official Website.<br>
 [Matplotlib](https://matplotlib.org/): Matplotlib Official Website.<br>
 [Seaborn](http://seaborn.pydata.org/): Seaborn Official Website.<br>
+[StatsModels](https://www.statsmodels.org/stable/index.html): StatsModels Official Website.<br>
 
 
 ---
