@@ -9,12 +9,14 @@ title: 锻炼打卡
     <th>日期</th>
     <th>内容</th>
     <th>数量</th>
+    <th>单次最大值</th>
   </tr>
   {% for item_i in site.data.pe_record %}
   <tr>
     <td>{{ item_i.date }}</td>
     <td>{{ item_i.item }}</td>
     <td>{{ item_i.value }}</td>
+    <td>{{ item_i.max_value }}</td>
   </tr>
   {% endfor %}
 </table>
